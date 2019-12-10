@@ -54,7 +54,7 @@ module.exports = () => (
     <br />
     <div>
       <Gradient name="rainbow">
-        <BigText text="Jessica" />
+        <BigText text="Jessica Lopes" />
       </Gradient>
 
       <Text>
